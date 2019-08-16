@@ -1,0 +1,8 @@
+pandas
+copy
+pickle
+numpy
+matplotlib
+flask_cors
+flask
+json
